@@ -12,8 +12,8 @@ This project is based on the **House Prices: Advanced Regression Techniques** Ka
 ---
 
 ## Feature Engineering  
-- **Feature selection with Lasso**: used L1 regularization to identify the most relevant predictors.  
-- **Combinations of variables**: created new features by combining existing ones (ratios, products, sums) to capture nonlinear relationships.  
+- **Combinations of variables**: created new features by combining existing ones (ratios and products) to capture nonlinear relationships.  
+- **Feature selection with Lasso**: used L1 regularization to identify the most relevant predictors. 
 - **Scaling and encoding**:  
   - Standardization for numerical variables.  
   - One-hot encoding for categorical variables.  
